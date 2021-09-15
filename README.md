@@ -9,4 +9,9 @@ schematics too. The former versions are a litte rusty and some do not work.
 But version 4 is the latest and works quite well. In the future, I plan 
 to add more features.
 
-You can reach me at arjunsred@gmail.com
+
+Please visit my website [https://arjunsden.wordpress.com/] and youtube channel[https://www.youtube.com/channel/UCmtVqNG1rW7fd0N89GbJeww]
+to see more of my interesting topics and creations.
+
+Email address:
+arjunsred@gmail.com
