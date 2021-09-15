@@ -1,5 +1,7 @@
 Arduino Smart Watch
 
+>Smart watch made with arduino 
+
 This smart watch is made with arduino.It can show time, date, temperature,
 humidity, steps, distance. The possibilities are endless! It took a whole week 
 to complete the code. The wirings are quite simple. It was inspired by tinkernut.
